@@ -11,6 +11,18 @@ Selamat datang di proyek **Zodiac Detector**! Proyek ini adalah sebuah program s
 4. Kompilasi kode dengan menjalankan perintah berikut: `javac JavaScanner.java`
 5. Jalankan program dengan perintah: `java JavaScanner`
 
+## Langkah-langkah
+
+1. Program akan meminta kamu untuk memasukkan nama kamu.
+2. Kemudian, kamu diminta memasukkan tanggal kelahiran (angka saja).
+3. Kamu juga diminta memilih angka bulan kelahiran (1-12), misalnya 1 untuk Januari, 2 untuk Februari, dan seterusnya.
+4. Setelah semua data terisi, program akan memberi tahu tanda zodiak kamu.
+
+## Penting untuk Diketahui
+
+- Isi data dengan benar agar hasilnya akurat.
+- Jika kamu tidak tahu tanda zodiak kamu, program ini akan membantu kamu mengetahuinya dengan mudah dan cepat.
+
 ## Kontribusi
 
 Kontribusi sangat diterima! Jika Anda ingin meningkatkan atau menambah fitur pada proyek ini, silakan buat *pull request*. Pastikan untuk mengikuti panduan kontribusi yang ada.
